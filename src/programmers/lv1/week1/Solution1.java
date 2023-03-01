@@ -1,4 +1,4 @@
-package programmers.lv1;
+package programmers.lv1.week1;
 
 import java.util.Arrays;
 import java.util.Collections;
